@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jairoparedes
 - 👀 I’m interested in Software Developmen, Tecnology, Electronic and Bricolage
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jairoparedes/jairoparedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I'm currently learning english professional and web scraping
+- 💞️ I’am looking to collaborate on projects of IOT and scientists
+- https://www.linkedin.com/in/jairo-danilo-paredes-candia-3315b5148
+- hiro.paredes.candia@gmail.com
+- +56 9 47413843
